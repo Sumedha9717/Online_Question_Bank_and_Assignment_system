@@ -1,0 +1,5 @@
+Admin: username - admin@sminds
+	Password - psdg$24323334
+
+Student Username - sumedaB@ndara
+	Password - 1234
